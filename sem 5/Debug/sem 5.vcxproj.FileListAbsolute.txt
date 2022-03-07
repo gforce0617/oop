@@ -1,0 +1,4 @@
+D:\documents\oop\sem 5\Debug\sem 5.exe
+D:\documents\oop\sem 5\Debug\sem 5.pdb
+D:\documents\4 sem\oop\sem 5\Debug\sem 5.exe
+D:\documents\4 sem\oop\sem 5\Debug\sem 5.pdb

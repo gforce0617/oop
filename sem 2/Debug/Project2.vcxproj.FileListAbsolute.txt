@@ -1,0 +1,2 @@
+C:\documents\4 sem\oop\Project2\Debug\Project2.exe
+C:\documents\4 sem\oop\Project2\Debug\Project2.pdb

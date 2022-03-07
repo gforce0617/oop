@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\documents\4 sem\oop\Project2\main.cpp(40,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\documents\4 sem\oop\Project2\main.cpp(79,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\documents\4 sem\oop\Project2\main.cpp(100,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\documents\4 sem\oop\Project2\main.cpp(135,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\documents\4 sem\oop\Project2\main.cpp(144,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\documents\4 sem\oop\Project2\main.cpp(151,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\documents\4 sem\oop\Project2\main.cpp(160,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\documents\4 sem\oop\Project2\main.cpp(167,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\documents\4 sem\oop\Project2\main.cpp(208,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\documents\4 sem\oop\Project2\main.cpp(220,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Project2.vcxproj -> C:\documents\4 sem\oop\Project2\Debug\Project2.exe

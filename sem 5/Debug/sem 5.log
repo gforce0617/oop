@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\documents\4 sem\oop\sem 5\main.cpp(70,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\4 sem\oop\sem 5\main.cpp(82,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\4 sem\oop\sem 5\main.cpp(173,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\4 sem\oop\sem 5\main.cpp(191,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\4 sem\oop\sem 5\main.cpp(203,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\4 sem\oop\sem 5\main.cpp(253,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\4 sem\oop\sem 5\main.cpp(272,20): warning C4018: <: несоответствие типов со знаком и без знака
+  records.cpp
+  Создание кода...
+  sem 5.vcxproj -> D:\documents\4 sem\oop\sem 5\Debug\sem 5.exe

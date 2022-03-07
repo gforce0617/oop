@@ -1,0 +1,2 @@
+D:\documents\oop\sem 4\Debug\sem 4.exe
+D:\documents\oop\sem 4\Debug\sem 4.pdb

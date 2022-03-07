@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\documents\oop\sem 6\main.cpp(103,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\oop\sem 6\main.cpp(160,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\oop\sem 6\main.cpp(170,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\oop\sem 6\main.cpp(183,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\oop\sem 6\main.cpp(238,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\documents\oop\sem 6\main.cpp(248,21): warning C4018: <: несоответствие типов со знаком и без знака
+  sem 6.vcxproj -> D:\documents\oop\sem 6\Debug\sem 6.exe
